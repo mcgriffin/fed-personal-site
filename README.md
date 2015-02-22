@@ -1,2 +1,2 @@
 # fed-personal-site
-FED Personal Site Project
+FED Resume Personal Site Project
