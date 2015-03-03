@@ -1,0 +1,16 @@
+body {
+background-color: lightgreen;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+
+	color: brown;
+}
+li:nth-child(odd) {
+	color: blue;
+}
+
+nav a:nth-child(3) {
+color: red;
+
+}
